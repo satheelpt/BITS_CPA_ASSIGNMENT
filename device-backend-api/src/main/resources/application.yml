@@ -1,0 +1,10 @@
+
+firebase:
+  collectionId: devices
+
+spring:
+  cloud:
+    gcp:
+      project-id: My First Project
+      credentials:
+        location: file:C:\Users\ASUS\Downloads\sa-device-controller-pubsub.json
