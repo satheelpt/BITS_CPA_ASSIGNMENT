@@ -1,0 +1,10 @@
+.switches {
+  width: 20%;
+  .buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    color: cyan;
+    font-weight: bold;
+  }
+}
